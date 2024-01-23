@@ -1,0 +1,1 @@
+chrome-extension://ebaeifdbcjklcmoigppnpkcghndhpbbm/dapp-interface.js
